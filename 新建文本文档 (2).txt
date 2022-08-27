@@ -1,0 +1,9 @@
+#公众号配置 #公众号appld "app_id":"wx575d3d164352ea66"
+#公众号appSecret "app_secret":"ea994b848371ca7c6673fc49bb0dcb1d", 
+#模板消息id "templateid":"5cvwwPeiPTqKfiuCXT9s8sOQCZ-CTv97ITGJIfgVA2Y" 
+#接收公众号消息的微信号，如果有多个，需要在里用英文逗号间隔，例如["wx1""wx2" "user"：["oGvSZ6M7kqDXJtK-e6N_bFcRwcao"]
+#信息配置 
+#所在省份 "province":"新疆”
+#所在城市 "city":"昌吉"
+#生日1，修改周梦霞为对应需要显示的名字，如果生日为农历，在最前面加上r即可 "birthday1":{"周梦霞":"亲爱的老婆","birthday":"2002-03-14"}，
+#在一起的日子，格式同上 "lovedate":"2021-9-4" 
